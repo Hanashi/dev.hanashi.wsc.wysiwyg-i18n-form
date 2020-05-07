@@ -5,5 +5,5 @@ rm -f files.tar
 7z a -ttar -mx=9 files.tar ./files/*
 rm -f templates.tar
 7z a -ttar -mx=9 templates.tar ./templates/*
-rm -f dev.hanashi.wsc.template1.tar
-7z a -ttar -mx=9 dev.hanashi.wsc.template1.tar ./* -x!acptemplates -x!files -x!templates -x!dev.hanashi.wsc.template1.tar -x!.git -x!.gitignore -x!make.bat -x!make.sh
+rm -f dev.hanashi.wsc.wysiwyg-i18n-form.tar
+7z a -ttar -mx=9 dev.hanashi.wsc.wysiwyg-i18n-form.tar ./* -x!acptemplates -x!files -x!templates -x!dev.hanashi.wsc.wysiwyg-i18n-form.tar -x!.git -x!.gitignore -x!make.bat -x!make.sh

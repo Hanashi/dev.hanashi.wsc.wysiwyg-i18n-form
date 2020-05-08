@@ -6,7 +6,7 @@
 		<packagedescription><![CDATA[I18n form field for wysiwyg editor.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[I18n-Form-Field für den WYSIWYG-Editor.]]></packagedescription>
 		<version>1.0.0</version>
-		<date>2020-05-07</date>
+		<date>2020-05-08</date>
 	</packageinformation>
 
 	<authorinformation>
@@ -15,7 +15,7 @@
 	</authorinformation>
 
 	<requiredpackages>
-		<requiredpackage minversion="3.0.0">com.woltlab.wcf</requiredpackage>
+		<requiredpackage minversion="5.2.0">com.woltlab.wcf</requiredpackage>
 	</requiredpackages>
 
 	<excludedpackages>

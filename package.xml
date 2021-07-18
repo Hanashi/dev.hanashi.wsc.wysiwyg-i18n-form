@@ -5,12 +5,12 @@
 		<packagename language="de"><![CDATA[WYSIWYG i18n Form Field]]></packagename>
 		<packagedescription><![CDATA[I18n form field for wysiwyg editor.]]></packagedescription>
 		<packagedescription language="de"><![CDATA[I18n-Form-Field für den WYSIWYG-Editor.]]></packagedescription>
-		<version>1.0.0</version>
-		<date>2020-05-08</date>
+		<version>1.0.1</version>
+		<date>2021-07-19</date>
 	</packageinformation>
 
 	<authorinformation>
-		<author><![CDATA[Hanashi]]></author>
+		<author><![CDATA[Hanashi Development]]></author>
 		<authorurl><![CDATA[https://hanashi.dev/]]></authorurl>
 	</authorinformation>
 
@@ -29,5 +29,9 @@
 		<!-- templates -->
 		<instruction type="template" />
 		<instruction type="acpTemplate" />
+	</instructions>
+	<instructions type="update" fromversion="1.0.0">
+		<!-- files -->
+        <instruction type="file" />
 	</instructions>
 </package>

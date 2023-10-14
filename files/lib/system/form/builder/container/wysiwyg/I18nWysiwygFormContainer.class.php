@@ -10,6 +10,9 @@ use wcf\system\form\builder\field\wysiwyg\I18nWysiwygFormField;
 use wcf\system\form\builder\field\wysiwyg\WysiwygAttachmentFormField;
 use wcf\system\Regex;
 
+/**
+ * @deprecated
+ */
 class I18nWysiwygFormContainer extends WysiwygFormContainer
 {
     /**

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/6.0/language.xsd" languagecode="de" languagename="Deutsch" countrycode="de">
+	<import>
+		<category name="wcf.acp.index">
+			<item name="wcf.acp.index.i18nAdminNotice"><![CDATA[Das Plugin „WYSIWYG i18n Form Field“ von Hanashi Development hat keine Funktion mehr und kann nun deinstalliert werden.]]></item>
+		</category>
+	</import>
+</language>

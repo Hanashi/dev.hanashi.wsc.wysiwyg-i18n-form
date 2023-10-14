@@ -4,6 +4,9 @@ namespace wcf\system\form\builder\field\wysiwyg;
 
 use wcf\system\form\builder\field\TI18nFormField;
 
+/**
+ * @deprecated
+ */
 class I18nWysiwygFormField extends WysiwygFormField
 {
     use TI18nFormField;
